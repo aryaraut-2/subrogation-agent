@@ -13,7 +13,8 @@ const App = () => {
   const [isChatLoading, setIsChatLoading] = useState(false);
 
   // API base URL - adjust as needed
-  const API_BASE = 'http://localhost:5000';
+  const API_BASE = 'https://subrogation-agent-backend.onrender.com';
+
 
   const handleFileUpload = async (file) => {
     setUploadedFile(file);
