@@ -44,11 +44,11 @@ This agent automates complex subrogation claim analysis, saving time and reducin
 
 ## Future Scope
 
-Multi-format document support: Extend file uploads to PDFs, Word documents, and images with OCR.
-Advanced NLP models: Integrate latest GenAI models for deeper legal understanding and better explanations.
-Multilingual support: Enable claim analysis and chat in multiple languages to serve wider markets.
-Real-time collaboration: Allow multiple users (adjusters, lawyers) to review and comment on claims simultaneously.
-Dashboard & analytics: Add visual insights on claim trends, success rates, and risk factors.
-Mobile app: Develop a mobile interface for on-the-go claim management and AI assistance.
+- Multi-format document support: Extend file uploads to PDFs, Word documents, and images with OCR.
+- Advanced NLP models: Integrate latest GenAI models for deeper legal understanding and better explanations.
+- Multilingual support: Enable claim analysis and chat in multiple languages to serve wider markets.
+- Real-time collaboration: Allow multiple users (adjusters, lawyers) to review and comment on claims simultaneously.
+- Dashboard & analytics: Add visual insights on claim trends, success rates, and risk factors.
+- Mobile app: Develop a mobile interface for on-the-go claim management and AI assistance.
 
 
