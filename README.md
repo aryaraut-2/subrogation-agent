@@ -34,7 +34,7 @@ Manual subrogation processes are often time-consuming and error-prone, leading t
 - npm install
 - npm run dev
 3. Open the frontend file in brower 
-upload the documents, analyze , generate and ask questions to assistant
+upload the documents from upload folder , analyze , generate and ask questions to assistant
 
 ## Why It’s Better and Its Impact
 
