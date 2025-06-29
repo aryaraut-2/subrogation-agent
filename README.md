@@ -36,4 +36,17 @@ Manual subrogation processes are often time-consuming and error-prone, leading t
 3. Open the frontend file in brower 
 upload the documents, analyze , generate and ask questions to assistant
 
+## Why It’s Better and Its Impact
+
+This agent automates complex subrogation claim analysis, saving time and reducing human error. By providing clear recoverability predictions with confidence scores and simple explanations, it helps insurers make faster, informed decisions. Generating legally formatted demand letters instantly streamlines legal workflows. The integrated AI chat supports stakeholders with quick, accurate answers, improving customer service and transparency. Overall, it boosts efficiency, accuracy, and trust in insurance claim handling.
+
+## Future Scope
+
+Multi-format document support: Extend file uploads to PDFs, Word documents, and images with OCR.
+Advanced NLP models: Integrate latest GenAI models for deeper legal understanding and better explanations.
+Multilingual support: Enable claim analysis and chat in multiple languages to serve wider markets.
+Real-time collaboration: Allow multiple users (adjusters, lawyers) to review and comment on claims simultaneously.
+Dashboard & analytics: Add visual insights on claim trends, success rates, and risk factors.
+Mobile app: Develop a mobile interface for on-the-go claim management and AI assistance.
+
 
