@@ -1,0 +1,76 @@
+Policy FAQs:
+
+Q: What is subrogation?
+A: Subrogation is a legal right that allows an insurer, after compensating the insured, to pursue recovery from the third party that caused the loss.
+
+Q: What costs are recoverable?
+A: Common recoverable costs include repair expenses, medical bills, towing, vehicle storage, rental replacement, deductibles, and legal fees—provided proper documentation exists.
+
+Q: What benefit does subrogation offer to policyholders?
+A: It helps insurers keep premiums lower by recovering funds from liable third parties. It may also help the policyholder recover their deductible.
+
+Q: What is a waiver of subrogation?
+A: It's a clause where an insurer agrees not to pursue recovery against a third party. These are often used in leases, construction contracts, and business agreements to avoid disputes.
+
+Q: Is third-party damage covered?
+A: Only if the third party is proven liable and the damage isn’t excluded under the insured’s policy terms.
+
+Q: What is the “Made-Whole” Doctrine?
+A: In some jurisdictions, the insured must be fully compensated for their loss before the insurer can pursue subrogation.
+
+Q: What are the risks of waiving subrogation?
+A: Waiving subrogation can limit the insurer’s ability to recover costs and may shift more financial burden to the insurer or insured.
+
+Q: What is equitable subrogation?
+A: A legal principle where a person who pays off another's debt or damage can step into their legal shoes to claim reimbursement.
+
+Q: When is subrogation most commonly used?
+A: Auto accidents, property damage claims, product liability, and workers’ compensation cases.
+
+---
+
+📝 Common Clauses:
+
+Subrogation Clause:
+“Upon payment of any claim, the insurer shall be subrogated to all rights of recovery the insured may have against any third party responsible.”
+
+Waiver of Subrogation Clause (Construction):
+“Each party waives all rights of recovery against the other for loss covered by required insurance policies, and shall cause their insurers to issue waiver endorsements.”
+
+Mutual Waiver of Subrogation (Leases):
+“Landlord and tenant hereby waive all rights of subrogation against each other to the extent such damage is covered by property insurance.”
+
+Notice of Subrogation Clause:
+“The insurer must provide written notice of its intent to subrogate within 30 days of claim settlement, and the insured agrees to fully cooperate.”
+
+---
+
+🌍 Real-World Examples:
+
+1. **Auto Accident**:
+   - Insurer pays for your damaged vehicle.
+   - Then sues the at-fault driver’s insurer to recover the amount paid.
+
+2. **Tenant Fire Damage**:
+   - Tenant accidentally starts a fire.
+   - Landlord’s insurer pays damages and subrogates against tenant’s renter’s policy.
+
+3. **Construction Contract**:
+   - Contractor’s employee damages site.
+   - Owner’s insurer pays and later subrogates against contractor unless a waiver exists.
+
+4. **Medical Malpractice (Workers' Comp)**:
+   - Employee is injured by a third party.
+   - Employer’s insurer pays compensation and sues the third party for reimbursement.
+
+---
+
+📚 Subrogation Legal Insights:
+
+- Subrogation avoids double recovery by the insured.
+- Helps ensure that responsible parties bear the loss.
+- Strengthens claim processes and cost control in insurance.
+
+---
+
+[Add more lines anytime. This file is dynamically read.]
