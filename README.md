@@ -12,6 +12,8 @@ Manual subrogation processes are often time-consuming and error-prone, leading t
 - Provide the demand letter as a downloadable `.txt` file.  
 - Include an AI chat agent that answers questions from insurers, customers, or third parties with accurate, context-aware information related to subrogation and insurance.
 
+Legal demand letter format taken from Google attached in the repo
+
 ## Technologies Used
 
 - **Flask**: Lightweight and flexible Python web framework used to build the backend API. It handles file uploads, claim analysis, demand letter generation, and serves the React frontend.
